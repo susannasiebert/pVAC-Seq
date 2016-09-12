@@ -11,7 +11,7 @@ If you don't have Python 3.5 installed, we recommend using `Conda <http://conda.
 
 Once you have set up your Python 3.5 environment correctly you can use ``pip`` to install pVAC-Seq. Make sure you have ``pip`` installed. ``pip`` is generally included in python distributions, but may need to be upgraded before use. See the `instructions <https://packaging.python.org/en/latest/installing/#install-pip-setuptools-and-wheel>`_ for installing or upgrading ``pip``.
 
-After you have pip installed, type the following command on your Terminal (for Mac and Linux users) or the command prompt (for Windows users):
+After you have pip installed, type the following command on your Terminal (for Mac and Linux users) or the Command Prompt (for Windows users):
 
 .. code-block:: none
 
@@ -23,7 +23,7 @@ You can check that pvacseq has been installed under the default environment by l
 
    pip list
 
-``pip`` will fetch and install pVAC-Seq and its dependencies for you. After installing, you can run pvacseq directly from the Terminal/command prompt.
+``pip`` will fetch and install pVAC-Seq and its dependencies for you. After installing, you can run pvacseq directly from the Terminal/Command Prompt.
 
 If you have an old version pVAC-Seq installed you might want to consider upgrading to the latest version:
 
