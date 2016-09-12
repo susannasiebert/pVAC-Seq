@@ -82,7 +82,7 @@ A minimum base quality of 20 is recommended which can be enabled by ``-b 20``.
 Cufflinks
 ^^^^^^^^^
 
-Cufflinks files can be added as optional inputs to pVAC-Seq to extract gene and transcript expression data for downstream filtering.
+pVAC-Seq optionally accepts Cufflinks files as inputs to extract gene and transcript expression data for downstream filtering.
 
 Installation instructions for Cufflinks can be found on their `GitHub page <https://github.com/cole-trapnell-lab/cufflinks#install-quick-start>`_.
 
