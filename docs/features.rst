@@ -15,7 +15,7 @@ pVAC-Seq utilizes the IEDB RESTful web interface. This means that none of the un
 
 **MHC Class I and Class II predictions**
 
-Both MHC Class I and Class II predictions are supported. Simply chose the desired prediction algorithms and HLA alleles during processing and Class I and Class II prediction results will be written to their own respective subdirectory in your output directory.
+Both MHC Class I and Class II predictions are supported. Simply choose the desired prediction algorithms and HLA alleles during processing and Class I and Class II prediction results will be written to their own respective subdirectory in your output directory.
 
 By using the IEDB RESTful web interface, pVAC-Seq is leveraging their extensive support of different prediction algorithms.
 
