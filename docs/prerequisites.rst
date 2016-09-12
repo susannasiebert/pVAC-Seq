@@ -58,7 +58,7 @@ Coverage and expression data can be added to the pVAC-Seq processing by providin
     trna_snvs_coverage_file: <bam-readcount output file for tumor RNA BAM and snvs>
     trna_indels_coverage_file: <bam-readcount output file for tumor RNA BAM and indels>
 
-Any file in this list is optional and its entry can be omitted. If no additional files exist than this yaml file is optional and can be omitted from the list of pvacseq arguments.
+Any file in this list is optional and its entry can be omitted. If no additional files exist than this yaml file is optional and can be omitted from the list of ``pvacseq`` arguments.
 
 bam-readcount
 ^^^^^^^^^^^^^

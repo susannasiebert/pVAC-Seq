@@ -17,13 +17,13 @@ After you have pip installed, type the following command on your Terminal (for M
 
    pip install pvacseq
 
-You can check that pvacseq has been installed under the default environment by listing all installed packages:
+You can check that ``pvacseq`` has been installed under the default environment by listing all installed packages:
 
 .. code-block:: none
 
    pip list
 
-``pip`` will fetch and install pVAC-Seq and its dependencies for you. After installing, you can run pvacseq directly from the Terminal/Command Prompt.
+``pip`` will fetch and install pVAC-Seq and its dependencies for you. After installing, you can run ``pvacseq`` directly from the Terminal/Command Prompt.
 
 If you have an old version pVAC-Seq installed you might want to consider upgrading to the latest version:
 
