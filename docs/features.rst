@@ -38,7 +38,7 @@ SMMalign                          1.1
 NNalign                           2.2
 ================================= =======
 
-**Comprehensive Filtering**
+**Comprehensive filtering**
 
 Automatic filtering on the binding affinity ic50 value narrows down the results to only include "good" candidate peptides. The binding filer threshold can be adjusted by the user for each pVAC-Seq run and additional filtering can be manually done by the user on the final result file to narrow down the candidate epitopes even further.
 
