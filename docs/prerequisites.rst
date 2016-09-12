@@ -63,7 +63,7 @@ Each file in this list is optional, and its entry can be omitted. If no addition
 bam-readcount
 ^^^^^^^^^^^^^
 
-pVAC-Seq optionally accepts bam-readcount files as inputs which are used to add coverage information (depth and VAF) for downstream filtering. Depth and VAF are calculated from the read counts of the reference allele and alternate allele.
+pVAC-Seq optionally accepts bam-readcount files as inputs to add coverage information (depth and VAF) for downstream filtering. Depth and VAF are calculated from the read counts of the reference allele and alternate allele.
 
 Follow the installation instructions on the `bam-readcount GitHub page <https://github.com/genome/bam-readcount#build-instructions>`_.
 
